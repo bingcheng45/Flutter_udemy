@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739079110134",
+    "project_id": "flash-chat-716b8",
+    "storage_bucket": "flash-chat-716b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739079110134:android:3e59a84691ed6d2ec15bd7",
+        "android_client_info": {
+          "package_name": "com.gatalong.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739079110134-poieminl1gaitk89lsvlp6hscsjuae3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZqHw7N64Ruu_g7RQvHJnkUTECNBzXoSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739079110134-poieminl1gaitk89lsvlp6hscsjuae3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
